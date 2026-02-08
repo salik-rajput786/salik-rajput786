@@ -54,21 +54,46 @@ I enjoy transforming raw data into meaningful insights and continuously build re
 
 ## 💻 Tech Stack
 
+### 📊 Data Analysis & Visualization
 <p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-Data%20Cleaning%20%7C%20Pivot%20Tables%20%7C%20Formulas-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Charts-Bar%20%7C%20Line%20%7C%20Pie%20%7C%20Dashboard-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Report%20Building-Business%20Reports%20%7C%20Insights-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard%20%7C%20DAX%20%7C%20Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/SQL-Queries%20%7C%20Joins%20%7C%20Aggregation-CC2927?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### 🐍 Python for Data Analysis
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Cleaning%20%7C%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib%20%26%20Plotly-Visualization-3F4F75?style=for-the-badge"/>
+</p>
+
+---
+
+### 📈 Data Analytics Skills
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Dashboard Development  
+- Data Visualization & Storytelling  
+- Business Insight Generation  
+- KPI Tracking & Performance Analysis
+
+
+---
 
 
 ## ✍️ Random Dev Quote
