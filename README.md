@@ -45,7 +45,7 @@ I enjoy transforming raw data into meaningful insights and continuously build re
 <a href="https://www.linkedin.com/in/mohd-salik-rajput-406531247/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mohdsalik715@gmail.com">
+<a href="mohdsalik715@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -69,15 +69,7 @@ I enjoy transforming raw data into meaningful insights and continuously build re
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=salik-rajput786&show_icons=true&theme=dark"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=salik-rajput786&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salik-rajput786&layout=compact&theme=dark"/>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
@@ -85,14 +77,6 @@ I enjoy transforming raw data into meaningful insights and continuously build re
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=salik-rajput786&icon=0&color=0"/>
-</p>
-
----
 
 ⭐ *Always learning, building, and growing in the field of Data Analytics.*
