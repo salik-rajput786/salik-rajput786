@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohd Salik 👋</h1>
 
-<h3 align="center">Aspiring GenAI / LLM Engineer | Data Analyst | Python • SQL • RAG • LLM Fine-Tuning</h3>
+<h3 align="center">Aspiring GenAI / LLM Engineer |  Python • SQL • RAG • LLM Fine-Tuning</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-salik-rajput-406531247/">
@@ -168,7 +168,7 @@ Analyzed customer transaction data to identify customer segments and revenue tre
 
 ## 🎯 Current Goal
 
-I'm looking for opportunities where I can contribute to **GenAI, LLM, RAG, AI/ML, or Data Analytics projects** while continuing to build production-oriented solutions and strengthen my engineering skills.
+I'm looking for opportunities where I can contribute to **GenAI, LLM, RAG, AI/ML projects** while continuing to build production-oriented solutions and strengthen my engineering skills.
 
 ---
 
